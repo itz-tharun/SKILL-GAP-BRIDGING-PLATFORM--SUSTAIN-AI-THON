@@ -13,6 +13,7 @@ The goal is to develop an AI-driven upskilling recommendation system that:Identi
 
 ## 📊 Workflow Diagram
 ![Workflow Diagram](./Workflow.png)
+
 The workflow begins with dataset preprocessing, followed by model training and evaluation. Finally, it allows real-time skill predictions based on user inputs.
 
 ---
